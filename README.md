@@ -47,7 +47,7 @@ This single-page website introduces who I am and showcases a curated selection o
 No frameworks, no dependencies. Just clone and open it in your browser.
 
 
-git clone https://github.com/TanaNazarevych/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/TanaNazarevych/CodingCampProject.git
+cd CodingCampProject.git
 open index.html
 
