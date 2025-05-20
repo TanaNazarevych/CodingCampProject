@@ -5,13 +5,6 @@ This project highlights my interests, hobbies, and visual works as a Web and Mob
 
 ---
 
-## 🌐 Live Demo
-
-🚀 [View Portfolio Live](https://your-live-link-goes-here.com)  
-*Replace this with your deployed link (Netlify, Vercel, GitHub Pages, etc.)*
-
----
-
 ## 📸 Preview
 
 <img src="assets/profile.avif" alt="Portfolio Screenshot" width="500" />
